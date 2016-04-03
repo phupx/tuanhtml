@@ -16684,7 +16684,7 @@ body.admin-bar.dfd-custom-padding-html .dfd-frame-line.line-top {
     }
 }
 body.dfd-custom-padding-html {
-    margin: 30px;
+    margin: 0px;
 }
 body.dfd-custom-padding-html .dfd-frame-line.line-top,
 body.dfd-custom-padding-html .dfd-frame-line.line-bottom {
@@ -16719,7 +16719,7 @@ body.dfd-custom-padding-html .dfd-frame-line.line-right {
     right: 0;
 }
 body.dfd-custom-padding-html #header-container #header {
-    padding: 0 30px;
+    padding: 0px;
 }
 body.dfd-custom-padding-html .boxed_layout .dfd-parallax-footer #footer-wrap {
     padding-left: 0;
